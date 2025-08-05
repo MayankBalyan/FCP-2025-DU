@@ -6,10 +6,11 @@ int main() {
     char ch;
     
     printf("Enter a character: ");
-    scanf("%c",ch);  // Missing: read character
+    scanf("%c",&ch);  // Missing: read character
 
     printf("You entered: %c\n", ch);  // Missing: print character
 
     return 0;
 }
+
 
