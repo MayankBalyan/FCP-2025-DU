@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 //Missing: describe the program
-// program to take input a number and display what you have entered
+// program to take input a number and display what integer you have entered
 int main() {
     int x;
 

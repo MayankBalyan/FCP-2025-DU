@@ -2,6 +2,7 @@
 #include <math.h>  // Missing: For sqrt()
 
 //Missing: describe the program
+// a program to take integer as input from the user and give it square root till 2 digits after decimal
 
 int main() {
     double x, result;
