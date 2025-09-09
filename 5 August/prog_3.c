@@ -12,4 +12,4 @@ int main() {
 
     return 0;
 }
-//    %.2f    - THIS PRINT THE FLOAT TILL 2 DIGITS
+

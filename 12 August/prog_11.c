@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 // Missing: describe the program
-
+// a program to take 3 integer as input from the user and display their sum and average
 int main() {
     int x, y, z, sum;
     float avg;

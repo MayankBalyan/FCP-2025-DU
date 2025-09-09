@@ -16,5 +16,3 @@ int main() {
 
     return 0;
 }
-// %d is for the integer 
-// scanf('%d',&num)
